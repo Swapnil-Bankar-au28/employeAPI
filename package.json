@@ -4,8 +4,11 @@
     "description": "",
     "main": "app.js",
     "scripts": {
-        "test": "npm run app.js",
-        "dev": "nodemon app.js"
+        "dev": "nodemon app.js",
+
+        "server": "node app.js",
+
+        "start": "node app.js"
     },
     "keywords": [],
     "author": "",
